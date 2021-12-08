@@ -1,0 +1,19 @@
+{
+  "name": "iptv_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "ffprobe": "^1.1.2",
+    "ffprobe-static": "^3.0.0",
+    "m3u8stream": "^0.8.4"
+  }
+}
